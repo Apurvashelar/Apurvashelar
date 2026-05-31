@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img width="100%" src="./assets/hero-bg.svg" alt="Apurva Shelar animated hero banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/apurvashelar/apurvashelar/main/assets/hero-bg.svg" alt="Apurva Shelar animated hero banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Building+secure%2C+scalable%2C+human-centered+software;Exploring+LLMs%2C+AI+Agents%2C+RAG%2C+and+Cloud-Native+Systems;Creating+products+at+the+intersection+of+engineering+and+impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Developer;Building+Critical+Systems+%26+Leading+Execution" alt="Typing SVG" />
 </p>
 
 <!-- ========================================================= -->
