@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Building+secure%2C+scalable%2C+human-centered+software;Exploring+LLMs%2C+AI+Agents%2C+RAG%2C+and+Cloud-Native+Systems;Creating+products+at+the+intersection+of+engineering%2C+healthcare%2C+and+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Building+secure%2C+scalable%2C+human-centered+software;Exploring+LLMs%2C+AI+Agents%2C+RAG%2C+and+Cloud-Native+Systems;Creating+products+at+the+intersection+of+engineering+and+impact" />
 </p>
 
 <!-- ========================================================= -->
