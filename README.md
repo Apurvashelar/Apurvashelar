@@ -275,7 +275,7 @@ Combining engineering execution, product thinking, and leadership experience to 
 <td width="50%" valign="top">
 
 <a href="https://github.com/Apurvashelar/cursortalk-dictation-tool">
-  <img src="./assets/project-icons/cursortalk.png" width="100%" alt="CursorTalk preview" />
+  <img src="./assets/cursortalk.png" width="100%" alt="CursorTalk preview" />
 </a>
 
 <h3>
