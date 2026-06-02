@@ -306,8 +306,9 @@ Built a privacy-first, self-hosted voice dictation platform serving both enterpr
 
 <td width="50%" valign="top">
 
-
-  <img src="./assets/project-icons/iamx-security.png" width="100%" alt="IAMX project preview" />
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=dFG7xszHcT9z&format=png&color=000000" width="64" height="64" alt="IAMX project preview" />
+  </p>
 
 <h3>
   IAMX - Identity & Access Management System
@@ -332,9 +333,9 @@ A security-focused identity and access management system designed to support aut
 <tr>
 <td width="50%" valign="top">
 
-
-  <img src="./assets/project-icons/cloud-storage.png" width="100%" alt="Secure shared cloud storage preview" />
-
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=x22BXJ8IEoLJ&format=png&color=000000" width="64" height="64" alt="Secure shared cloud storage preview" />
+</p>
 
 <h3>
   Secure Shared Cloud Storage
@@ -357,9 +358,9 @@ A secure cloud storage platform focused on protected file sharing, controlled ac
 
 <td width="50%" valign="top">
 
-
-  <img src="./assets/project-icons/rag-ai-support.png" width="100%" alt="RAG customer support system preview" />
-
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=uZrQP6cYos2I&format=png&color=000000" width="64" height="64" alt="RAG customer support system preview" />
+</p>
 
 <h3>
  RAG-Powered Intelligent Customer Support System
@@ -385,11 +386,13 @@ An AI-powered customer support system using retrieval-augmented generation to an
 <tr>
 <td width="50%" valign="top">
 
+<p align="center">
 <a href="https://github.com/Apurvashelar/EVTX-Inspector">
-  <img src="./assets/project-icons/evtx-inspector.png" width="100%" alt="EVTX Inspector project preview" />
+  <img src="https://img.icons8.com/?size=100&id=3N5nsXW7ytVx&format=png&color=000000" width="64" height="64" alt="EVTX Inspector project preview" />
 </a>
+</p>
 
-<h3>
+<h3 >
   <a href="https://github.com/Apurvashelar/EVTX-Inspector">EVTX Inspector</a>
 </h3>
 
@@ -415,9 +418,11 @@ A security-focused tool for inspecting Windows EVTX event logs and helping users
 
 <td width="50%" valign="top">
 
+<p align="center">
 <a href="https://github.com/Apurvashelar/log-daily-productivity">
-  <img src="./assets/project-icons/productivity-tracker.png" width="100%" alt="Productivity tracker project preview" />
+  <img src="https://img.icons8.com/?size=100&id=n7FpOs5tCs7E&format=png&color=000000" width="64" height="64" alt="Productivity tracker project preview" />
 </a>
+</p>
 
 <h3>
   <a href="https://github.com/Apurvashelar/log-daily-productivity">Productivity Tracker</a>
@@ -441,33 +446,11 @@ A productivity-focused application built to help users track work patterns, moni
 <tr>
 <td width="50%" valign="top">
 
-
-  <img src="./assets/project-icons/sign-language.png" width="100%" alt="Text to sign language project preview" />
-
-
-<h3>
-  Text-to-Sign Language Conversion
-</h3>
-
-<p><b>NLP · Accessibility · Assistive Technology</b></p>
-
-<p>
-An NLP-based system developed to convert text into Indian Sign Language, focused on improving communication accessibility for individuals with hearing disabilities.
-</p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-0F172A?style=flat-square&logo=googlegemini&logoColor=white" alt="Natural Language Processing" />
-  <img src="https://img.shields.io/badge/Text%20Analysis-2563EB?style=flat-square&logo=readme&logoColor=white" alt="Text Analysis" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
 <a href="https://github.com/Apurvashelar/kyuto">
-  <img src="./assets/project-icons/kyuto.png" width="100%" alt="Kyuto project preview" />
+  <img src="./assets/Kyuto_Logo_Transparent.pdf" width="64" height="64" alt="Kyuto project preview" />
 </a>
+</p>
 
 <h3>
   <a href="https://github.com/Apurvashelar/kyuto">Kyuto - E-Commerce Store</a>
@@ -488,10 +471,35 @@ Implemented product discovery, authentication, payments, image management, email
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
- <p align="center">
+
+<p align="center">
   <a href="https://kyuto.in">
     <img src="https://img.shields.io/badge/Live%20Site-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Live Site" />
   </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center">
+<img src="https://img.icons8.com/?size=100&id=10lwQw8Al1lP&format=png&color=000000" width="64" height="64" alt="Text to sign language project preview" />
+</p>
+
+<h3>
+  Text-to-Sign Language Conversion
+</h3>
+
+<p><b>NLP · Accessibility · Assistive Technology</b></p>
+
+<p>
+An NLP-based system developed to convert text into Indian Sign Language, focused on improving communication accessibility for individuals with hearing disabilities.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-0F172A?style=flat-square&logo=googlegemini&logoColor=white" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/Text%20Analysis-2563EB?style=flat-square&logo=readme&logoColor=white" alt="Text Analysis" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
 </p>
 
 </td>
@@ -505,8 +513,6 @@ Implemented product discovery, authentication, payments, image management, email
     <img src="https://img.shields.io/badge/View%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
   </a>
 </p>
-
-<br />
 
 <br />
 
