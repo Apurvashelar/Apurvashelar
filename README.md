@@ -13,21 +13,16 @@
 <!-- These badges behave like quick navigation buttons.        -->
 <!-- ========================================================= -->
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio.apurvashelar.me/">
   <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/apurva-shelar-9310671b4/">
   <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:apurvashelar303@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=0F172A" />
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2563EB&label=Profile+Views" />
-</a>
+
 
 </div>
 
@@ -48,35 +43,55 @@
 <tr>
 <td width="65%" valign="top">
 
-### Hi, I’m YOUR_NAME 👋
+### Hi, I’m Apurva Shelar 👋
 
-I am a **Software Engineer / AI Engineer / Data Analyst** focused on building practical, reliable, and user-focused technology products.  
-My work sits at the intersection of **software engineering, AI systems, data-driven decision-making, and product execution**.
+Full-stack software engineer with 3.5 years of experience in healthcare technology, focused on delivering **scalable, reliable critical software solutions** across modern technology stacks. At Providence, I worked across the product lifecycle and was recognized with multiple milestone awards for outstanding performance, strong technical ownership and leading 3 person team through delivery. Over the last year, I expanded into Microsoft D365 Power Platform, working on CRM-based solutions and building user-facing applications used by healthcare systems.
 
-I enjoy building projects that are not just technically interesting, but also clear, usable, well-documented, and production-minded.
-
-**Current focus areas**
-
-- Building AI-powered tools and full-stack applications
-- Improving engineering workflows with automation
-- Designing clean, portfolio-ready technical projects
-- Writing maintainable code with strong documentation
-- Mentoring early-career women entering tech
+I recently moved to Bay Area to start the next chapter of my life. I’m in a deliberate upscaling phase, deepening my understanding of **applied AI by crafting new ideas, solutioning it with LLMs and AI agents, and executing them into working prototypes and end-to-end flows**. In parallel, I’m working toward PMP certification to strengthen my execution and leadership skills as I grow into roles that combine hands-on engineering with leading technical delivery.
 
 </td>
-<td width="35%" valign="top">
+<td width="35%" align="center">
+
+  <img
+    src="./assets/ProfilePic1.png"
+    width="260"
+    alt="Apurva Shelar"
+  />
+
+  <br /><br />
+
+  <img
+    src="https://img.shields.io/badge/Software%20Developer-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8"
+    alt="Software Developer"
+  />
+
+  <br />
+
+  <img
+    src="https://img.shields.io/badge/Critical%20Systems-2563EB?style=for-the-badge&logo=azuredevops&logoColor=white"
+    alt="Critical Systems"
+  />
+
+  <br />
+
+  <img
+    src="https://img.shields.io/badge/Execution%20Leadership-7C3AED?style=for-the-badge&logo=googletasks&logoColor=white"
+    alt="Execution Leadership"
+  />
+
+</td>
+<!-- <td width="35%" valign="top">
 
 ### Snapshot
 
 | Area | Details |
 |---|---|
-| Role | Software Engineer / AI Builder |
+| Role | Software Engineer |
 | Location | Bay Area, CA |
-| Interests | AI, Full Stack, DevTools |
-| Open to | SWE, AI Engineer, Data roles |
+| Open to | SWE |
 | Strength | Building practical projects end-to-end |
 
-</td>
+</td> -->
 </tr>
 </table>
 
@@ -124,107 +139,131 @@ Focused on creating useful resources, guidance, and technical support for early-
 <!-- Replace project text and image URLs with your own.        -->
 <!-- ========================================================= -->
 
-<h2>
-  <img src="https://img.icons8.com/fluency/48/source-code.png" width="28" />
-  What I am Building
-</h2>
-
-<!-- Project 1 -->
-<table>
-<tr>
-<td width="40%" valign="top">
-
-<a href="PROJECT_1_GITHUB_OR_LIVE_LINK">
-  <img src="https://placehold.co/600x360/0F172A/FFFFFF?text=Project+Preview+1" width="100%" />
-</a>
-
-</td>
-<td width="60%" valign="top">
-
-### Project Name 1  
-**AI Tool / Full-Stack Product / Data Project**
-
-A concise 2–3 line description explaining what the project does, who it is for, and why it matters.  
-Focus on measurable impact, technical clarity, and what makes the project useful.
-
-**Tech:** Python · React · FastAPI · PostgreSQL · AWS
-
-<a href="PROJECT_1_GITHUB_OR_LIVE_LINK">
-  <img src="https://img.shields.io/badge/View_Project-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="PROJECT_1_DEMO_LINK">
-  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
 
 <br />
 
-<!-- Project 2 -->
-<table>
-<tr>
-<td width="40%" valign="top">
-
-<a href="PROJECT_2_GITHUB_OR_LIVE_LINK">
-  <img src="https://placehold.co/600x360/1E293B/FFFFFF?text=Project+Preview+2" width="100%" />
-</a>
-
-</td>
-<td width="60%" valign="top">
-
-### Project Name 2  
-**Developer Tool / Automation / Chrome Extension**
-
-A professional description of the problem, your solution, and your contribution.  
-Mention architecture, APIs, deployment, or performance improvements if relevant.
-
-**Tech:** TypeScript · Next.js · Node.js · Supabase · GitHub Actions
-
-<a href="PROJECT_2_GITHUB_OR_LIVE_LINK">
-  <img src="https://img.shields.io/badge/View_Project-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="PROJECT_2_DEMO_LINK">
-  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
+## <img src="https://img.icons8.com/fluency/48/source-code.png" width="28" /> What I am Building
 
 <br />
 
-<!-- Project 3 -->
-<table>
-<tr>
-<td width="40%" valign="top">
-
-<a href="PROJECT_3_GITHUB_OR_LIVE_LINK">
-  <img src="https://placehold.co/600x360/312E81/FFFFFF?text=Project+Preview+3" width="100%" />
+<a href="PROJECT_0_LINK">
+  <img src="./assets/project-icons/cursortalk.png" width="100%" alt="Cursortalk preview" />
 </a>
 
-</td>
-<td width="60%" valign="top">
+### CursorTalk - Voice Dictation Tool
 
-### Project Name 3  
-**Data / Machine Learning / Analytics Project**
+Privacy-First · Self-Hosted · Secure
 
-Explain the dataset, model, dashboard, or analytics workflow.  
-Include metrics, business value, and your role in the project.
+Built a privacy-first, self-hosted voice dictation platform
+serving both enterprise organizations and individual users – enterprises deploy on a private AWS VPC with a fine-tuned Llama 3B model, while individuals run it fully local via Whisper ASR with no server needed. Eliminated third-party audio exposure for regulated industries, achieving sub-2s latency.
 
-**Tech:** Python · Pandas · Scikit-learn · Streamlit · Docker
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Whisper%20ASR-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper ASR" />
+  <img src="https://img.shields.io/badge/Llama%203B-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Llama 3B" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
 
-<a href="PROJECT_3_GITHUB_OR_LIVE_LINK">
-  <img src="https://img.shields.io/badge/View_Project-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<br />
+
+<a href="PROJECT_1_LINK">
+  <img src="./assets/project-icons/iamx-security.png" width="100%" alt="IAMX project preview" />
 </a>
-<a href="PROJECT_3_DEMO_LINK">
-  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+### IAMX - Identity & Access Management System
+
+Cybersecurity · Authentication · Access Control
+
+A security-focused identity and access management system designed to support authentication, authorization, and controlled access workflows. Built with a focus on secure user management, role-based access, and scalable enterprise application patterns.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+</p>
+
+<br />
+
+<a href="PROJECT_2_LINK">
+  <img src="./assets/project-icons/cloud-storage.png" width="100%" alt="Secure shared cloud storage preview" />
 </a>
 
-</td>
-</tr>
-</table>
+### Secure Shared Cloud Storage
+
+Cloud Security · Encrypted Storage · Secure Collaboration
+
+A secure cloud storage platform focused on protected file sharing, controlled access, and reliable collaboration. Designed around encryption, secure upload/download flows, and user-based permission handling.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%2FFlask-000000?style=flat-square&logo=flask&logoColor=white" alt="Python/Flask" />
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" alt="OpenSSL" />
+  <img src="https://img.shields.io/badge/AES-2563EB?style=flat-square&logo=securityscorecard&logoColor=white" alt="AES" />
+  <img src="https://img.shields.io/badge/RSA-7C3AED?style=flat-square&logo=letsencrypt&logoColor=white" alt="RSA" />
+</p>
+
+<br />
+
+<a href="PROJECT_4_LINK">
+  <img src="./assets/project-icons/rag-ai-support.png" width="100%" alt="RAG customer support system preview" />
+</a>
+
+### RAG-Powered Intelligent Customer Support System
+
+Applied AI · RAG · Customer Support Automation
+
+An AI-powered customer support system using retrieval-augmented generation to answer user queries from a structured knowledge base. Built to improve response quality, reduce manual support effort, and create more reliable customer-facing workflows.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG%20Pipeline-0F172A?style=flat-square&logo=googlegemini&logoColor=white" alt="RAG Pipeline" />
+  <img src="https://img.shields.io/badge/Vector%20Database-2563EB?style=flat-square&logo=pinecone&logoColor=white" alt="Vector Database" />
+  <img src="https://img.shields.io/badge/LLM%20Agents-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="LLM Agents" />
+  <img src="https://img.shields.io/badge/n8n%20Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n Workflow Automation" />
+  <img src="https://img.shields.io/badge/Input%20Guardrails-334155?style=flat-square&logo=shield&logoColor=white" alt="Input Guardrails" />
+</p>
+
+<br />
+
+<a href="PROJECT_5_LINK">
+  <img src="./assets/project-icons/evtx-inspector.png" width="100%" alt="EVTX Inspector project preview" />
+</a>
+
+### EVTX Inspector
+
+Security Tooling · Event Logs · Digital Forensics
+
+A security-focused tool for inspecting Windows EVTX event logs and helping users analyze system activity, suspicious events, and investigation-relevant records through a cleaner inspection workflow.
+
+
+<br />
+
+<a href="PROJECT_3_LINK">
+  <img src="./assets/project-icons/productivity-tracker.png" width="100%" alt="Productivity tracker project preview" />
+</a>
+
+### Productivity Tracker
+
+Productivity · Analytics · Time Tracking
+
+A productivity-focused application built to help users track work patterns, monitor task progress, and understand time usage through clear dashboards and structured activity insights.
+
+<br />
+
+<a href="PROJECT_6_LINK">
+  <img src="./assets/project-icons/sign-language.png" width="100%" alt="Text to sign language project preview" />
+</a>
+
+### Text-to-Sign Language Conversion
+
+NLP · Accessibility · Assistive Technology
+
+An NLP-based system developed to convert text into Indian Sign Language, focused on improving communication accessibility for individuals with hearing disabilities.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-0F172A?style=flat-square&logo=googlegemini&logoColor=white" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/Text%20Analysis-2563EB?style=flat-square&logo=readme&logoColor=white" alt="Text Analysis" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+</p>
 
 <br />
 
@@ -242,29 +281,55 @@ Include metrics, business value, and your role in the project.
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Frontend & Backend
+### Front-End
 
 <p>
-  <img src="https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-1E293B?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-  <img src="https://img.shields.io/badge/FastAPI-1E293B?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### AI, Data & Cloud
+### Back-End / APIs
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-312E81?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-312E81?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-312E81?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Docker-312E81?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-312E81?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+### Cloud / DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=232F3E" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### Databases / Query
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/CDS-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <br />
@@ -282,16 +347,11 @@ Include metrics, business value, and your role in the project.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br />
+![](https://github-readme-stats.shion.dev/api?username=Apurvashelar&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Apurvashelar&theme=blueberry&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Apurvashelar&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
