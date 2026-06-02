@@ -58,21 +58,17 @@ I recently moved to Bay Area to start the next chapter of my life. I’m in a de
     alt="Apurva Shelar"
   />
 
-  <br /><br />
+  <br />
 
   <img
     src="https://img.shields.io/badge/Software%20Developer-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8"
     alt="Software Developer"
   />
 
-  <br />
-
   <img
     src="https://img.shields.io/badge/Critical%20Systems-2563EB?style=for-the-badge&logo=azuredevops&logoColor=white"
     alt="Critical Systems"
   />
-
-  <br />
 
   <img
     src="https://img.shields.io/badge/Execution%20Leadership-7C3AED?style=for-the-badge&logo=googletasks&logoColor=white"
@@ -96,42 +92,170 @@ I recently moved to Bay Area to start the next chapter of my life. I’m in a de
 </table>
 
 <br />
-
 <!-- ========================================================= -->
-<!-- HIGHLIGHTS / RECOGNITION SECTION                         -->
-<!-- Purpose: Similar to Sonica-B's recognition cards.         -->
-<!-- This creates clean achievement cards without custom art.  -->
+<!-- Highlights SECTION                                        -->
 <!-- ========================================================= -->
 
-<h2>
-  <img src="https://img.icons8.com/fluency/48/prize.png" width="28" />
-  Highlights
-</h2>
+<br />
+
+## <img src="https://img.icons8.com/?size=100&id=zMwxb5uHonjU&format=png&color=000000" width="28" /> Highlights
+
+<br />
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🏆 Mentorship Impact  
-Completed **20+ mentorship sessions** helping women start and grow their tech careers.
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/shop.png" width="90" alt="Co-founder icon" />
+</p>
+
+<h3>Co-Founder, Kyuto</h3>
+
+<p>
+Scaled a premium ceramic lifestyle brand from a single outlet into a pan-India e-commerce business.
+</p>
+
+<p>
+Built the brand across product positioning, customer experience, digital presence, and operations while contributing to its growth beyond a local retail model.
+</p>
 
 </td>
-<td width="33%" valign="top">
 
-### 🚀 Project Builder  
-Built portfolio-grade projects across **AI, automation, frontend, backend, and cloud deployment**.
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/trophy.png" width="90" alt="Hackathon award icon" />
+</p>
+
+<h3>1st Place + Judges’ Award, Providence Hackathon</h3>
+
+<p>
+Won 1st Place and the Judges’ Award at the Providence Hackathon, competing among 9 teams.
+</p>
+
+<p>
+Recognized for building a high-impact solution under time constraints with strong execution, problem-solving, and product-focused thinking.
+</p>
 
 </td>
-<td width="33%" valign="top">
+</tr>
 
-### 🌱 Community Focus  
-Focused on creating useful resources, guidance, and technical support for early-career engineers.
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=vNXFqyQtOSbb&format=png&color=000000" width="90" alt="Startup program icon" />
+</p>
+
+<h3>Finalist, Georgia Tech CRETE-X Startup Launch Program</h3>
+
+<p>
+Selected as a finalist in Georgia Tech’s CRETE-X startup launch program for the IAMX project.
+</p>
+
+<p>
+Advanced IAMX as a startup-focused idea with emphasis on identity, access management, cybersecurity, and scalable product potential.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/medal.png" width="90" alt="MVP award icon" />
+</p>
+
+<h3>MVP Award + Multiple Milestone Recognition Awards, Providence</h3>
+
+<p>
+Received MVP recognition and multiple Milestone Recognition Awards at Providence for top performance and business impact.
+</p>
+
+<p>
+Recognized for technical ownership, reliable delivery, and contributions to critical healthcare software systems and team outcomes.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=eejUGEX0qHvl&format=png&color=000000" width="90" alt="Leadership award icon" />
+</p>
+
+<h3>Young Leader Award, VIIT</h3>
+
+<p>
+Received the Young Leader Award at VIIT and was elected Female Vice President for campus-wide leadership.
+</p>
+
+<p>
+Led student initiatives and represented peers through cross-functional coordination, communication, and leadership across campus activities.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/conference-call.png" width="90" alt="Women in tech mentorship icon" />
+</p>
+
+<h3>Women in Tech Mentorship</h3>
+
+<p>
+Mentored aspiring women in tech through 1:1 guidance sessions, helping them navigate career direction, technical learning paths, and confidence-building in software careers.
+</p>
+
+<!-- <p>
+Focused on making technical careers feel more approachable through practical guidance, encouragement, and personalized career support.
+</p> -->
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=NK7WZ47r1Kwf&format=png&color=000000" width="90" alt="Coding achievement icon" />
+</p>
+
+<h3>4-Star HackerRank Coder</h3>
+
+<p>
+Earned a 4-star silver badge on HackerRank, reflecting consistent coding practice and problem-solving ability across programming challenges.
+</p>
+
+<p>
+Built strong programming fundamentals through regular practice in algorithms, logical reasoning, and structured problem solving.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/goal.png" width="90" alt="Growth icon" />
+</p>
+
+<h3>Continuing to Build with Impact</h3>
+
+<p>
+Currently focused on building practical full-stack, applied AI, and automation projects that solve real workflow and productivity problems.
+</p>
+
+<p>
+Combining engineering execution, product thinking, and leadership experience to create systems that are useful, scalable, and user-centered.
+</p>
 
 </td>
 </tr>
 </table>
 
-<br />
 
 <!-- ========================================================= -->
 <!-- FEATURED PROJECTS SECTION                                -->
@@ -146,16 +270,23 @@ Focused on creating useful resources, guidance, and technical support for early-
 
 <br />
 
-<a href="PROJECT_0_LINK">
-  <img src="./assets/project-icons/cursortalk.png" width="100%" alt="Cursortalk preview" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Apurvashelar/cursortalk-dictation-tool">
+  <img src="./assets/project-icons/cursortalk.png" width="100%" alt="CursorTalk preview" />
 </a>
 
-### CursorTalk - Voice Dictation Tool
+<h3>
+  <a href="https://github.com/Apurvashelar/cursortalk-dictation-tool">CursorTalk - Voice Dictation Tool</a>
+</h3>
 
-Privacy-First · Self-Hosted · Secure
+<p><b>Privacy-First · Self-Hosted · Secure</b></p>
 
-Built a privacy-first, self-hosted voice dictation platform
-serving both enterprise organizations and individual users – enterprises deploy on a private AWS VPC with a fine-tuned Llama 3B model, while individuals run it fully local via Whisper ASR with no server needed. Eliminated third-party audio exposure for regulated industries, achieving sub-2s latency.
+<p>
+Built a privacy-first, self-hosted voice dictation platform serving both enterprise organizations and individual users. Enterprises deploy on a private AWS VPC with a fine-tuned Llama 3B model, while individuals run it fully local via Whisper ASR with no server needed. Eliminated third-party audio exposure for regulated industries, achieving sub-2s latency.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -163,18 +294,26 @@ serving both enterprise organizations and individual users – enterprises deplo
   <img src="https://img.shields.io/badge/Llama%203B-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Llama 3B" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
+<a href="https://cursortalk.com">
+    <img src="https://img.shields.io/badge/Live%20Site-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Live Site" />
+  </a>
 
-<br />
+</td>
 
-<a href="PROJECT_1_LINK">
+<td width="50%" valign="top">
+
+
   <img src="./assets/project-icons/iamx-security.png" width="100%" alt="IAMX project preview" />
-</a>
 
-### IAMX - Identity & Access Management System
+<h3>
+  IAMX - Identity & Access Management System
+</h3>
 
-Cybersecurity · Authentication · Access Control
+<p><b>Cybersecurity · Authentication · Access Control</b></p>
 
+<p>
 A security-focused identity and access management system designed to support authentication, authorization, and controlled access workflows. Built with a focus on secure user management, role-based access, and scalable enterprise application patterns.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
@@ -183,17 +322,25 @@ A security-focused identity and access management system designed to support aut
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
-<br />
+</td>
+</tr>
 
-<a href="PROJECT_2_LINK">
+<tr>
+<td width="50%" valign="top">
+
+
   <img src="./assets/project-icons/cloud-storage.png" width="100%" alt="Secure shared cloud storage preview" />
-</a>
 
-### Secure Shared Cloud Storage
 
-Cloud Security · Encrypted Storage · Secure Collaboration
+<h3>
+  Secure Shared Cloud Storage
+</h3>
 
+<p><b>Cloud Security · Encrypted Storage · Secure Collaboration</b></p>
+
+<p>
 A secure cloud storage platform focused on protected file sharing, controlled access, and reliable collaboration. Designed around encryption, secure upload/download flows, and user-based permission handling.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python%2FFlask-000000?style=flat-square&logo=flask&logoColor=white" alt="Python/Flask" />
@@ -202,17 +349,23 @@ A secure cloud storage platform focused on protected file sharing, controlled ac
   <img src="https://img.shields.io/badge/RSA-7C3AED?style=flat-square&logo=letsencrypt&logoColor=white" alt="RSA" />
 </p>
 
-<br />
+</td>
 
-<a href="PROJECT_4_LINK">
+<td width="50%" valign="top">
+
+
   <img src="./assets/project-icons/rag-ai-support.png" width="100%" alt="RAG customer support system preview" />
-</a>
 
-### RAG-Powered Intelligent Customer Support System
 
-Applied AI · RAG · Customer Support Automation
+<h3>
+ RAG-Powered Intelligent Customer Support System
+</h3>
 
+<p><b>Applied AI · RAG · Customer Support Automation</b></p>
+
+<p>
 An AI-powered customer support system using retrieval-augmented generation to answer user queries from a structured knowledge base. Built to improve response quality, reduce manual support effort, and create more reliable customer-facing workflows.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/RAG%20Pipeline-0F172A?style=flat-square&logo=googlegemini&logoColor=white" alt="RAG Pipeline" />
@@ -222,48 +375,130 @@ An AI-powered customer support system using retrieval-augmented generation to an
   <img src="https://img.shields.io/badge/Input%20Guardrails-334155?style=flat-square&logo=shield&logoColor=white" alt="Input Guardrails" />
 </p>
 
-<br />
+</td>
+</tr>
 
-<a href="PROJECT_5_LINK">
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Apurvashelar/EVTX-Inspector">
   <img src="./assets/project-icons/evtx-inspector.png" width="100%" alt="EVTX Inspector project preview" />
 </a>
 
-### EVTX Inspector
+<h3>
+  <a href="https://github.com/Apurvashelar/EVTX-Inspector">EVTX Inspector</a>
+</h3>
 
-Security Tooling · Event Logs · Digital Forensics
+<p><b>Security Tooling · Event Logs · Digital Forensics</b></p>
 
+<p>
 A security-focused tool for inspecting Windows EVTX event logs and helping users analyze system activity, suspicious events, and investigation-relevant records through a cleaner inspection workflow.
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Event%20Logs-0F172A?style=flat-square&logo=windows&logoColor=white" alt="Event Logs" />
+  <img src="https://img.shields.io/badge/Digital%20Forensics-2563EB?style=flat-square&logo=securityscorecard&logoColor=white" alt="Digital Forensics" />
+  <img src="https://img.shields.io/badge/Security%20Tooling-7C3AED?style=flat-square&logo=shield&logoColor=white" alt="Security Tooling" />
+</p>
 
-<br />
+</td>
 
-<a href="PROJECT_3_LINK">
+<td width="50%" valign="top">
+
+<a href="https://github.com/Apurvashelar/log-daily-productivity">
   <img src="./assets/project-icons/productivity-tracker.png" width="100%" alt="Productivity tracker project preview" />
 </a>
 
-### Productivity Tracker
+<h3>
+  <a href="https://github.com/Apurvashelar/log-daily-productivity">Productivity Tracker</a>
+</h3>
 
-Productivity · Analytics · Time Tracking
+<p><b>Productivity · Analytics · Time Tracking</b></p>
 
+<p>
 A productivity-focused application built to help users track work patterns, monitor task progress, and understand time usage through clear dashboards and structured activity insights.
+</p>
 
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Productivity-0F172A?style=flat-square&logo=googletasks&logoColor=white" alt="Productivity" />
+  <img src="https://img.shields.io/badge/Analytics-2563EB?style=flat-square&logo=googleanalytics&logoColor=white" alt="Analytics" />
+  <img src="https://img.shields.io/badge/Time%20Tracking-7C3AED?style=flat-square&logo=clockify&logoColor=white" alt="Time Tracking" />
+</p>
 
-<a href="PROJECT_6_LINK">
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+
   <img src="./assets/project-icons/sign-language.png" width="100%" alt="Text to sign language project preview" />
-</a>
 
-### Text-to-Sign Language Conversion
 
-NLP · Accessibility · Assistive Technology
+<h3>
+  Text-to-Sign Language Conversion
+</h3>
 
+<p><b>NLP · Accessibility · Assistive Technology</b></p>
+
+<p>
 An NLP-based system developed to convert text into Indian Sign Language, focused on improving communication accessibility for individuals with hearing disabilities.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Natural%20Language%20Processing-0F172A?style=flat-square&logo=googlegemini&logoColor=white" alt="Natural Language Processing" />
   <img src="https://img.shields.io/badge/Text%20Analysis-2563EB?style=flat-square&logo=readme&logoColor=white" alt="Text Analysis" />
   <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
 </p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/Apurvashelar/kyuto">
+  <img src="./assets/project-icons/kyuto.png" width="100%" alt="Kyuto project preview" />
+</a>
+
+<h3>
+  <a href="https://github.com/Apurvashelar/kyuto">Kyuto - E-Commerce Store</a>
+</h3>
+
+<p>
+Built a full-stack e-commerce platform for Kyuto, my ceramic lifestyle startup selling handcrafted ceramics, candles, and curated gift hampers.
+</p>
+
+<p>
+Implemented product discovery, authentication, payments, image management, email notifications, and production deployment.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+  <a href="https://kyuto.in">
+    <img src="https://img.shields.io/badge/Live%20Site-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Live Site" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/apurvashelar?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
+</p>
+
+<br />
+
+<br />
 
 <br />
 
@@ -357,39 +592,6 @@ An NLP-based system developed to convert text into Indian Sign Language, focused
 
 <br />
 
-<!-- ========================================================= -->
-<!-- LOOKING FOR SECTION                                      -->
-<!-- Purpose: Similar to "What I am Looking For".             -->
-<!-- Shows recruiters what roles fit you.                     -->
-<!-- ========================================================= -->
-
-<h2>
-  <img src="https://img.icons8.com/fluency/48/search.png" width="28" />
-  What I am Looking For
-</h2>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Software Engineer  
-Frontend, backend, APIs, cloud deployment, and product-focused engineering.
-
-</td>
-<td width="33%" valign="top">
-
-### AI / Applied AI Engineer  
-LLM tools, automation workflows, intelligent assistants, and AI-powered applications.
-
-</td>
-<td width="33%" valign="top">
-
-### Data / Analytics Roles  
-Dashboards, data pipelines, business insights, experimentation, and reporting.
-
-</td>
-</tr>
-</table>
 
 <br />
 
