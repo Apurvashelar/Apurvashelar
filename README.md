@@ -448,7 +448,7 @@ A productivity-focused application built to help users track work patterns, moni
 
 <p align="center">
 <a href="https://github.com/Apurvashelar/kyuto">
-  <img src="./assets/Kyuto_Logo_Transparent.pdf" width="64" height="64" alt="Kyuto project preview" />
+  <img src="https://img.icons8.com/fluency/96/shop.png" width="64" height="64" alt="Kyuto project preview" />
 </a>
 </p>
 
