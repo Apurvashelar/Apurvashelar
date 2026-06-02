@@ -274,9 +274,11 @@ Combining engineering execution, product thinking, and leadership experience to 
 <tr>
 <td width="50%" valign="top">
 
+<p align="center">
 <a href="https://github.com/Apurvashelar/cursortalk-dictation-tool">
-  <img src="./assets/cursortalk.png" width="100%" alt="CursorTalk preview" />
+  <img src="./assets/cursortalk.png" width="64" height="64" alt="CursorTalk preview" />
 </a>
+</p>
 
 <h3>
   <a href="https://github.com/Apurvashelar/cursortalk-dictation-tool">CursorTalk - Voice Dictation Tool</a>
@@ -294,9 +296,11 @@ Built a privacy-first, self-hosted voice dictation platform serving both enterpr
   <img src="https://img.shields.io/badge/Llama%203B-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Llama 3B" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
+<p align="center">
 <a href="https://cursortalk.com">
     <img src="https://img.shields.io/badge/Live%20Site-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Live Site" />
   </a>
+</p>
 
 </td>
 
@@ -401,6 +405,12 @@ A security-focused tool for inspecting Windows EVTX event logs and helping users
   <img src="https://img.shields.io/badge/Security%20Tooling-7C3AED?style=flat-square&logo=shield&logoColor=white" alt="Security Tooling" />
 </p>
 
+<p align="center">
+  <a href="https://evtx-inspector.apurvashelar303.workers.dev/">
+    <img src="https://img.shields.io/badge/Live%20Site-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Live Site" />
+  </a>
+</p>
+
 </td>
 
 <td width="50%" valign="top">
@@ -478,7 +488,7 @@ Implemented product discovery, authentication, payments, image management, email
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-
+ <p align="center">
   <a href="https://kyuto.in">
     <img src="https://img.shields.io/badge/Live%20Site-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Live Site" />
   </a>
