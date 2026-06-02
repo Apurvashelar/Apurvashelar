@@ -584,6 +584,7 @@ An NLP-based system developed to convert text into Indian Sign Language, focused
 </p>
 
 <br />
+<br />
 
 <!-- ========================================================= -->
 <!-- GITHUB ANALYTICS SECTION                                 -->
@@ -612,32 +613,31 @@ An NLP-based system developed to convert text into Indian Sign Language, focused
 <br />
 
 <!-- ========================================================= -->
-<!-- WRITING / CONTENT / COMMUNITY SECTION                    -->
-<!-- Purpose: Optional professional polish.                    -->
-<!-- Use this if you write posts, mentor, or contribute.       -->
+<!-- Animation SECTION                                          -->
 <!-- ========================================================= -->
 
-<h2>
-  <img src="https://img.icons8.com/fluency/48/conference-call.png" width="28" />
-  Community & Mentorship
-</h2>
+## <img src="https://img.icons8.com/?size=100&id=DFr8iR0Izgj5&format=png&color=000000" width="28" /> Contribution Activity
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Apurvashelar/Apurvashelar/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Apurvashelar/Apurvashelar/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/Apurvashelar/Apurvashelar/output/pacman-contribution-graph.svg"
+    />
+  </picture>
+</p>
 
-### Mentorship  
-I mentor women entering tech by helping with project direction, interview preparation, resume guidance, and confidence-building.
-
-</td>
-<td width="50%" valign="top">
-
-### Knowledge Sharing  
-I enjoy sharing practical learnings from projects, debugging, deployment, career growth, and technical storytelling.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>Building consistently, learning continuously, and shipping with intent.</i>
+</p>
 
 <br />
 
@@ -653,19 +653,17 @@ I enjoy sharing practical learnings from projects, debugging, deployment, career
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/apurva-shelar-9310671b4/)">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:apurvashelar303@gmail.com">
   <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="[YOUR_PORTFOLIO_URL](https://portfolio.apurvashelar.me/)">
   <img src="https://img.shields.io/badge/View_Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <br />
 <br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:7C3AED" width="100%" />
 
 </div>
