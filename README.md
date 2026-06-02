@@ -113,11 +113,7 @@ I recently moved to Bay Area to start the next chapter of my life. I’m in a de
 <h3>Co-Founder, Kyuto</h3>
 
 <p>
-Scaled a premium ceramic lifestyle brand from a single outlet into a pan-India e-commerce business.
-</p>
-
-<p>
-Built the brand across product positioning, customer experience, digital presence, and operations while contributing to its growth beyond a local retail model.
+Scaled Kyuto from a single outlet into a pan-India e-commerce lifestyle brand across digital, operations, and customer experience.
 </p>
 
 </td>
@@ -131,11 +127,7 @@ Built the brand across product positioning, customer experience, digital presenc
 <h3>1st Place + Judges’ Award, Providence Hackathon</h3>
 
 <p>
-Won 1st Place and the Judges’ Award at the Providence Hackathon, competing among 9 teams.
-</p>
-
-<p>
-Recognized for building a high-impact solution under time constraints with strong execution, problem-solving, and product-focused thinking.
+Won 1st Place and Judges’ Award among 9 teams for delivering a high-impact solution under tight timelines.
 </p>
 
 </td>
@@ -151,11 +143,7 @@ Recognized for building a high-impact solution under time constraints with stron
 <h3>Finalist, Georgia Tech CRETE-X Startup Launch Program</h3>
 
 <p>
-Selected as a finalist in Georgia Tech’s CRETE-X startup launch program for the IAMX project.
-</p>
-
-<p>
-Advanced IAMX as a startup-focused idea with emphasis on identity, access management, cybersecurity, and scalable product potential.
+Selected as a CRETE-X finalist for IAMX, a cybersecurity startup idea focused on identity and access management.
 </p>
 
 </td>
@@ -169,11 +157,7 @@ Advanced IAMX as a startup-focused idea with emphasis on identity, access manage
 <h3>MVP Award + Multiple Milestone Recognition Awards, Providence</h3>
 
 <p>
-Received MVP recognition and multiple Milestone Recognition Awards at Providence for top performance and business impact.
-</p>
-
-<p>
-Recognized for technical ownership, reliable delivery, and contributions to critical healthcare software systems and team outcomes.
+Recognized at Providence with MVP and milestone awards for ownership, delivery excellence, and impact on critical healthcare systems.
 </p>
 
 </td>
@@ -189,11 +173,7 @@ Recognized for technical ownership, reliable delivery, and contributions to crit
 <h3>Young Leader Award, VIIT</h3>
 
 <p>
-Received the Young Leader Award at VIIT and was elected Female Vice President for campus-wide leadership.
-</p>
-
-<p>
-Led student initiatives and represented peers through cross-functional coordination, communication, and leadership across campus activities.
+Received VIIT’s Young Leader Award and served as elected Female Vice President, leading campus-wide initiatives.
 </p>
 
 </td>
@@ -207,7 +187,7 @@ Led student initiatives and represented peers through cross-functional coordinat
 <h3>Women in Tech Mentorship</h3>
 
 <p>
-Mentored aspiring women in tech through 1:1 guidance sessions, helping them navigate career direction, technical learning paths, and confidence-building in software careers.
+Mentored aspiring women in tech through 1:1 sessions focused on career direction, technical learning paths, and confidence-building.
 </p>
 
 <!-- <p>
@@ -227,11 +207,7 @@ Focused on making technical careers feel more approachable through practical gui
 <h3>4-Star HackerRank Coder</h3>
 
 <p>
-Earned a 4-star silver badge on HackerRank, reflecting consistent coding practice and problem-solving ability across programming challenges.
-</p>
-
-<p>
-Built strong programming fundamentals through regular practice in algorithms, logical reasoning, and structured problem solving.
+Earned a 4-star silver badge on HackerRank through consistent coding practice and algorithmic problem solving.
 </p>
 
 </td>
@@ -245,11 +221,7 @@ Built strong programming fundamentals through regular practice in algorithms, lo
 <h3>Continuing to Build with Impact</h3>
 
 <p>
-Currently focused on building practical full-stack, applied AI, and automation projects that solve real workflow and productivity problems.
-</p>
-
-<p>
-Combining engineering execution, product thinking, and leadership experience to create systems that are useful, scalable, and user-centered.
+Building practical full-stack, applied AI, and automation projects that solve real workflow and productivity problems.
 </p>
 
 </td>
@@ -287,7 +259,7 @@ Combining engineering execution, product thinking, and leadership experience to 
 <p><b>Privacy-First · Self-Hosted · Secure</b></p>
 
 <p>
-Built a privacy-first, self-hosted voice dictation platform serving both enterprise organizations and individual users. Enterprises deploy on a private AWS VPC with a fine-tuned Llama 3B model, while individuals run it fully local via Whisper ASR with no server needed. Eliminated third-party audio exposure for regulated industries, achieving sub-2s latency.
+Built a privacy-first voice dictation tool with private AWS deployment for enterprises and fully local Whisper ASR for individuals.
 </p>
 
 <p align="center">
@@ -317,7 +289,7 @@ Built a privacy-first, self-hosted voice dictation platform serving both enterpr
 <p><b>Cybersecurity · Authentication · Access Control</b></p>
 
 <p>
-A security-focused identity and access management system designed to support authentication, authorization, and controlled access workflows. Built with a focus on secure user management, role-based access, and scalable enterprise application patterns.
+Designed an IAM platform for authentication, authorization, role-based access, and scalable enterprise security workflows.
 </p>
 
 <p align="center">
@@ -344,7 +316,7 @@ A security-focused identity and access management system designed to support aut
 <p><b>Cloud Security · Encrypted Storage · Secure Collaboration</b></p>
 
 <p>
-A secure cloud storage platform focused on protected file sharing, controlled access, and reliable collaboration. Designed around encryption, secure upload/download flows, and user-based permission handling.
+Built a secure cloud storage system with encrypted file sharing, controlled access, and user-based permissions.
 </p>
 
 <p align="center">
@@ -369,7 +341,7 @@ A secure cloud storage platform focused on protected file sharing, controlled ac
 <p><b>Applied AI · RAG · Customer Support Automation</b></p>
 
 <p>
-An AI-powered customer support system using retrieval-augmented generation to answer user queries from a structured knowledge base. Built to improve response quality, reduce manual support effort, and create more reliable customer-facing workflows.
+Built a RAG-based customer support system to deliver reliable answers from a structured knowledge base and reduce manual support effort.
 </p>
 
 <p align="center">
@@ -399,7 +371,7 @@ An AI-powered customer support system using retrieval-augmented generation to an
 <p><b>Security Tooling · Event Logs · Digital Forensics</b></p>
 
 <p>
-A security-focused tool for inspecting Windows EVTX event logs and helping users analyze system activity, suspicious events, and investigation-relevant records through a cleaner inspection workflow.
+Built a security tool to inspect Windows EVTX logs and surface investigation-relevant system activity faster.
 </p>
 
 <p align="center">
@@ -431,7 +403,7 @@ A security-focused tool for inspecting Windows EVTX event logs and helping users
 <p><b>Productivity · Analytics · Time Tracking</b></p>
 
 <p>
-A productivity-focused application built to help users track work patterns, monitor task progress, and understand time usage through clear dashboards and structured activity insights.
+Built a productivity tracker to log daily work, monitor task progress, and surface time-usage insights.
 </p>
 
 <p align="center">
@@ -457,11 +429,11 @@ A productivity-focused application built to help users track work patterns, moni
 </h3>
 
 <p>
-Built a full-stack e-commerce platform for Kyuto, my ceramic lifestyle startup selling handcrafted ceramics, candles, and curated gift hampers.
+Built Kyuto’s full-stack e-commerce platform for handcrafted ceramics, candles, and curated gift hampers.
 </p>
 
 <p>
-Implemented product discovery, authentication, payments, image management, email notifications, and production deployment.
+Implemented product discovery, auth, payments, media management, email flows, and production deployment.
 </p>
 
 <p align="center">
@@ -493,7 +465,7 @@ Implemented product discovery, authentication, payments, image management, email
 <p><b>NLP · Accessibility · Assistive Technology</b></p>
 
 <p>
-An NLP-based system developed to convert text into Indian Sign Language, focused on improving communication accessibility for individuals with hearing disabilities.
+Developed an NLP system that converts text into Indian Sign Language to improve communication accessibility.
 </p>
 
 <p align="center">
@@ -653,13 +625,13 @@ An NLP-based system developed to convert text into Indian Sign Language, focused
 
 <div align="center">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/apurva-shelar-9310671b4/)">
+<a href="https://www.linkedin.com/in/apurva-shelar-9310671b4/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:apurvashelar303@gmail.com">
   <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="[YOUR_PORTFOLIO_URL](https://portfolio.apurvashelar.me/)">
+<a href="https://portfolio.apurvashelar.me/">
   <img src="https://img.shields.io/badge/View_Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
