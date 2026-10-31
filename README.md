@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Developer;Building+Critical+Systems+%26+Leading+Execution" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Technical+Product+Manager;Building+Critical+Systems+%26+Leading+Execution" alt="Typing SVG" />
 </p>
 
 <!-- ========================================================= -->
@@ -45,9 +45,16 @@
 
 ### Hi, I’m Apurva Shelar 👋
 
-Full-stack software engineer with 3.5 years of experience in healthcare technology, focused on delivering **scalable, reliable critical software solutions** across modern technology stacks. At Providence, I worked across the product lifecycle and was recognized with multiple milestone awards for outstanding performance, strong technical ownership and leading 3 person team through delivery. Over the last year, I expanded into Microsoft D365 Power Platform, working on CRM-based solutions and building user-facing applications used by healthcare systems.
+<!-- Full-stack software engineer with 3.5 years of experience in healthcare technology, focused on delivering **scalable, reliable critical software solutions** across modern technology stacks. At Providence, I worked across the product lifecycle and was recognized with multiple milestone awards for outstanding performance, strong technical ownership and leading 3 person team through delivery. Over the last year, I expanded into Microsoft D365 Power Platform, working on CRM-based solutions and building user-facing applications used by healthcare systems.
 
 I recently moved to Bay Area to start the next chapter of my life. I’m in a deliberate upscaling phase, deepening my understanding of **applied AI by crafting new ideas, solutioning it with LLMs and AI agents, and executing them into working prototypes and end-to-end flows**. In parallel, I’m working toward PMP certification to strengthen my execution and leadership skills as I grow into roles that combine hands-on engineering with leading technical delivery.
+-->
+
+I am a product and **program manager** with a foundation in software engineering. I began my career at Providence Global Center, building enterprise and clinical data systems for a US health system. Over three years, my role grew from writing code to **owning products:** defining requirements with users, setting roadmaps and priorities, and coordinating delivery across engineering, operations, and business teams. I value understanding the people who use a system before deciding what to build, and I rely on data to judge whether what we ship is working.
+
+At Providence, I was recognized with multiple **Milestone Awards** for outstanding performance, strong technical ownership, and leading a three-person team through delivery.
+
+I am a certified **Project Management Professional (PMP)** and am pursuing an** MS in Engineering Management at San José State University**, preparing for a career in technical management.
 
 </td>
 <td width="35%" align="center">
@@ -62,7 +69,7 @@ I recently moved to Bay Area to start the next chapter of my life. I’m in a de
 
   <img
     src="https://img.shields.io/badge/Software%20Developer-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8"
-    alt="Software Developer"
+    alt="Product Manager"
   />
 
   <img
@@ -82,9 +89,9 @@ I recently moved to Bay Area to start the next chapter of my life. I’m in a de
 
 | Area | Details |
 |---|---|
-| Role | Software Engineer |
+| Role | Product Manager |
 | Location | Bay Area, CA |
-| Open to | SWE |
+| Open to | TPM |
 | Strength | Building practical projects end-to-end |
 
 </td> -->
