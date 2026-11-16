@@ -68,7 +68,7 @@ I am a certified **Project Management Professional (PMP)** and am pursuing an** 
   <br />
 
   <img
-    src="https://img.shields.io/badge/Software%20Developer-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8"
+    src="https://img.shields.io/badge/Program%20Manager-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8"
     alt="Product Manager"
   />
 
