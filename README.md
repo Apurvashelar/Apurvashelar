@@ -54,7 +54,7 @@ I am a product and **program manager** with a foundation in software engineering
 
 At Providence, I was recognized with multiple **Milestone Awards** for outstanding performance, strong technical ownership, and leading a three-person team through delivery.
 
-I am a certified **Project Management Professional (PMP)** and am pursuing an** MS in Engineering Management at San José State University**, preparing for a career in technical management.
+I am a certified **Project Management Professional (PMP)** and am pursuing an** MS in Engineering Management at San José State University**, building on three years of hands-on product ownership with graduate work in strategy and leadership.
 
 </td>
 <td width="35%" align="center">
