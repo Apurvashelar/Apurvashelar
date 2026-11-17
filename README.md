@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/apurvashelar/apurvashelar/main/assets/hero-bg.svg" alt="Apurva Shelar animated hero banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/Apurvashelar/Apurvashelar/refs/heads/main/assets/hero-bg.svg" alt="Apurva Shelar animated hero banner" />
 </p>
 
 <p align="center">
